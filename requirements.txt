@@ -1,0 +1,8 @@
+streamlit
+typing-extensions
+langchain-ollama
+langchain-openai
+langchain-chroma
+langgraph
+langchain-core
+python-dotenv
